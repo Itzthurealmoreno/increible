@@ -109,3 +109,14 @@
 [04:57:03] [Server thread/INFO]: Named entity Bat['Infernal Bat'/15711, uuid='19399c59-4f57-4f70-a003-14ad89a57688', l='ServerLevel[world]', x=-845.34, y=11.00, z=-2083.75, cpos=[-53, -131], tl=2156, v=true] died: Infernal Bat suffocated in a wall
 [04:59:22] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/17099, uuid='d7f428f9-c978-4795-bd2b-912371fc41e0', l='ServerLevel[world]', x=-863.39, y=63.00, z=-2046.01, cpos=[-54, -128], tl=2984, v=true] died: Infernal Creeper was burned to a crisp while fighting deboabanreservas
 [05:00:29] [Server thread/INFO]: _elu issued server command: /home a
+[05:02:46] [Server thread/INFO]: _elu has reached the goal [Beaconator]
+[05:02:46] [Server thread/INFO]: _elu has made the advancement [Bring Home the Beacon]
+[05:02:49] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[05:03:58] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[05:03:58] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[05:04:12] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/15162, uuid='02825e22-9dd9-46eb-9412-1cd121b7ab6d', l='ServerLevel[world]', x=-826.41, y=64.00, z=-2069.53, cpos=[-52, -130], tl=10822, v=true] died: Infernal Zombie was burned to a crisp while fighting deboabanreservas
+[05:05:09] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/20714, uuid='28711657-bf2c-44b5-8c56-90699ff4295a', l='ServerLevel[world]', x=-886.75, y=21.54, z=-2144.50, cpos=[-56, -135], tl=3108, v=true] died: Infernal Zombie suffocated in a wall
+[05:05:43] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/22381, uuid='2410c15b-8949-4953-8ac3-355336ac13ad', l='ServerLevel[world]', x=-870.52, y=91.30, z=-2128.75, cpos=[-55, -134], tl=1582, v=true] died: Infernal Skeleton suffocated in a wall
+[05:07:46] [Server thread/INFO]: Named entity Bat['Infernal Bat'/25538, uuid='b93401de-ef25-49d1-abcf-d113a3f6c60f', l='ServerLevel[world]', x=-843.07, y=51.10, z=-2163.40, cpos=[-53, -136], tl=473, v=true] died: Infernal Bat burned to death
+[05:08:22] [Server thread/INFO]: deboabanreservas died because of Zombie
+[05:08:37] [Server thread/INFO]: deboabanreservas issued server command: /home casa
