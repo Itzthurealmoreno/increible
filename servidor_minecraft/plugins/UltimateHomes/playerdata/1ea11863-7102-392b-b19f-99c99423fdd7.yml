@@ -72,3 +72,10 @@ homes:
     yaw: -174.06445
     pitch: 38.650524
     world: world
+  chunk:
+    x: -986
+    y: 66
+    z: -2402
+    yaw: -124.26837
+    pitch: 26.163597
+    world: world
