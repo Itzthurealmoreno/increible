@@ -91,3 +91,19 @@
 [04:11:31] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/9841, uuid='a5670bb7-0341-4d82-ac69-c590923f6d60', l='ServerLevel[world]', x=-968.17, y=52.54, z=-2128.17, cpos=[-61, -134], tl=805, v=true] died: Infernal Skeleton suffocated in a wall
 [04:12:19] [Server thread/INFO]: deboabanreservas has made the advancement [Remote Getaway]
 [04:12:44] [Server thread/INFO]: _elu issued server command: /home exp
+[04:12:48] [Server thread/INFO]: _elu issued server command: /home xp
+[04:14:43] [Server thread/INFO]: Named entity Bat['Infernal Bat'/12538, uuid='a513813f-aeb9-4aa5-a354-3c094291ab10', l='ServerLevel[world]', x=-880.06, y=236.00, z=-2049.52, cpos=[-56, -129], tl=432, v=true] died: Infernal Bat suffocated in a wall
+[04:15:45] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/12534, uuid='91b1aafd-6ca6-410c-b2df-c5c00544f6ee', l='ServerLevel[world]', x=-886.43, y=211.50, z=-2052.43, cpos=[-56, -129], tl=1674, v=true] died: Infernal Skeleton was slain by _elu
+[04:16:53] [Server thread/INFO]: _elu issued server command: /home xp
+[04:16:59] [Server thread/INFO]: [InfernalMobs] Entity remove due to Morph
+[04:17:53] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13426, uuid='c43c6122-2bbc-437c-81d9-acebbc1bcb5f', l='ServerLevel[world]', x=-876.23, y=210.00, z=-2050.15, cpos=[-55, -129], tl=1091, v=true] died: Infernal Magma cube was shot by _elu using [Brave Flame Bow]
+[04:17:57] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13749, uuid='5466ee00-6544-414d-8d81-04aaf71d0c50', l='ServerLevel[world]', x=-877.58, y=210.00, z=-2049.52, cpos=[-55, -129], tl=61, v=true] died: Infernal Magma cube was slain by _elu
+[04:18:00] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13750, uuid='3d92b692-0da1-41b2-8ad6-b88593a9559c', l='ServerLevel[world]', x=-876.55, y=210.00, z=-2051.77, cpos=[-55, -129], tl=105, v=true] died: Infernal Magma cube was slain by _elu
+[04:18:01] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13782, uuid='e1a14745-1b6a-4d6d-91da-623c9006b471', l='ServerLevel[world]', x=-875.93, y=210.52, z=-2050.50, cpos=[-55, -129], tl=6, v=true] died: Infernal Magma cube was killed while trying to hurt _elu
+[04:18:02] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13769, uuid='f7d695a2-c908-4084-913c-5d1c1b49cabf', l='ServerLevel[world]', x=-873.41, y=210.00, z=-2050.14, cpos=[-55, -129], tl=77, v=true] died: Infernal Magma cube was slain by _elu
+[04:18:02] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13783, uuid='3d8b4598-889d-4e6d-a519-7713392df396', l='ServerLevel[world]', x=-874.73, y=210.75, z=-2051.07, cpos=[-55, -129], tl=33, v=true] died: Infernal Magma cube was slain by _elu
+[04:18:04] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13770, uuid='ddbaf33a-3f62-4d51-a3f4-14380a6635d8', l='ServerLevel[world]', x=-872.90, y=211.00, z=-2050.15, cpos=[-55, -129], tl=104, v=true] died: Infernal Magma cube was slain by _elu
+[04:18:04] [Server thread/INFO]: Named entity MagmaCube['Infernal Magma cube'/13771, uuid='460041d9-9bb4-4ee6-87f7-34e3225bd3e4', l='ServerLevel[world]', x=-872.83, y=211.00, z=-2049.61, cpos=[-55, -129], tl=104, v=true] died: Infernal Magma cube was slain by _elu
+[04:18:14] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/5720, uuid='8565e512-070d-42a7-b19a-5f6d96d311f5', l='ServerLevel[world]', x=-884.41, y=102.00, z=-2125.38, cpos=[-56, -133], tl=16480, v=true] died: Infernal Skeleton suffocated in a wall
+[04:20:54] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/15115, uuid='76837ecd-60f6-4c1a-af7b-5b59aa3b0f4b', l='ServerLevel[world]', x=-932.55, y=41.30, z=-2180.75, cpos=[-59, -137], tl=910, v=true] died: Infernal Skeleton suffocated in a wall
+[04:22:10] [Server thread/INFO]: deboabanreservas issued server command: /home casa
