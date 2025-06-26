@@ -165,3 +165,40 @@
 [05:38:51] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/55342, uuid='758da992-bc81-4b67-9678-6851d1a087b3', l='ServerLevel[world]', x=803.07, y=18.30, z=-3454.82, cpos=[50, -216], tl=1398, v=true] died: Infernal Skeleton suffocated in a wall
 [05:40:53] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
 [05:40:53] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:45:39] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/59411, uuid='749d6e71-2b9d-4e70-8f3d-121360ad9fca', l='ServerLevel[world]', x=1050.34, y=8.00, z=-3677.00, cpos=[65, -230], tl=1229, v=true] died: Infernal Creeper suffocated in a wall
+[05:47:13] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/59812, uuid='15a337f2-4cbd-4eeb-936d-717f8afbbed4', l='ServerLevel[world]', x=1060.53, y=8.67, z=-3694.43, cpos=[66, -231], tl=1167, v=true] died: Infernal Skeleton suffocated in a wall
+[05:47:40] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[05:47:40] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[05:47:40] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[05:49:59] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[05:49:59] [Server thread/INFO]: deboabanreservas left the game
+[05:50:58] [Server thread/INFO]: _elu lost connection: Disconnected
+[05:50:58] [Server thread/INFO]: _elu left the game
+[05:51:12] [Server thread/INFO]: Stopping the server
+[05:51:12] [Server thread/INFO]: Stopping server
+[05:51:12] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.1
+[05:51:12] [Server thread/INFO]: [UltimateHomes] Disabling UltimateHomes v3.1
+[05:51:12] [Server thread/INFO]: [SleepFixer] Disabling SleepFixer v2.1.0
+[05:51:12] [Server thread/INFO]: [SleepFixer] Shut-down complete (took 0.0ms).
+[05:51:12] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.8
+[05:51:12] [Server thread/INFO]: Saving players
+[05:51:12] [Server thread/INFO]: Saving worlds
+[05:51:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:51:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:51:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:51:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:51:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 60 entity chunks, 0 poi chunks in world 'world' in 0.05s
+[05:51:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[05:51:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:51:13] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:51:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
