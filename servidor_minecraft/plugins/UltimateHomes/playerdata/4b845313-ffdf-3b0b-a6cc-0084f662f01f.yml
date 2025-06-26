@@ -1,0 +1,32 @@
+player:
+  info:
+    lastSeenAs: deboabanreservas
+homes:
+  casa:
+    x: -846
+    y: 103
+    z: -2131
+    yaw: 95.605896
+    pitch: 3.2997568
+    world: world
+  end:
+    x: 351
+    y: -42
+    z: -2172
+    yaw: -110.62549
+    pitch: 24.414335
+    world: world
+  exp:
+    x: -884
+    y: 210
+    z: -2046
+    yaw: 174.91638
+    pitch: 36.450085
+    world: world
+  reparacion:
+    x: -937
+    y: 82
+    z: -1893
+    yaw: 10.050018
+    pitch: 26.40001
+    world: world

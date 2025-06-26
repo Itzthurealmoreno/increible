@@ -1,0 +1,74 @@
+player:
+  info:
+    lastSeenAs: _elu
+homes:
+  a:
+    x: -899
+    y: 110
+    z: -2126
+    yaw: 26.567566
+    pitch: 31.079327
+    world: world
+  portal:
+    x: -116
+    y: 114
+    z: -258
+    yaw: -61.560482
+    pitch: 51.24996
+    world: world_nether
+  blazes:
+    x: -621
+    y: 61
+    z: 141
+    yaw: -19.721497
+    pitch: 3.0387108
+    world: world_nether
+  dm:
+    x: -1083
+    y: -23
+    z: -2292
+    yaw: -5.152277
+    pitch: 42.562656
+    world: world
+  end:
+    x: 349
+    y: -40
+    z: -2172
+    yaw: 87.40088
+    pitch: 38.09476
+    world: world
+  granja:
+    x: -884
+    y: 210
+    z: -2053
+    yaw: -110.6555
+    pitch: 43.972366
+    world: world
+  xp:
+    x: -883
+    y: 210
+    z: -2054
+    yaw: -176.82712
+    pitch: 27.417624
+    world: world
+  shulker:
+    x: 1690
+    y: 74
+    z: 1364
+    yaw: -112.10095
+    pitch: -0.71611774
+    world: world_the_end
+  reparacion:
+    x: -927
+    y: 83
+    z: -1901
+    yaw: 40.808777
+    pitch: 29.01612
+    world: world
+  esmes:
+    x: -938
+    y: 83
+    z: -1910
+    yaw: -174.06445
+    pitch: 38.650524
+    world: world
