@@ -108,3 +108,8 @@
 [03:30:31] [Server thread/INFO]: deboabanreservas issued server command: /home exp
 [03:31:25] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/7314, uuid='b6090d93-5a1a-42c5-bd0a-19f6ea3cd0f8', l='ServerLevel[world]', x=-809.94, y=82.69, z=-2149.25, cpos=[-51, -135], tl=854, v=true] died: Infernal Skeleton suffocated in a wall
 [03:33:00] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/6841, uuid='fd13121a-44e4-4613-80c2-c6e04ef0231b', l='ServerLevel[world]', x=-801.90, y=40.00, z=-2123.49, cpos=[-51, -133], tl=5236, v=true] died: Infernal Zombie suffocated in a wall
+[03:35:51] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/5949, uuid='ca8b7086-2924-4cff-b067-364fd9e8ff6e', l='ServerLevel[world]', x=-949.11, y=40.00, z=-2213.50, cpos=[-60, -139], tl=12711, v=true] died: Infernal Zombie suffocated in a wall
+[03:35:57] [Server thread/INFO]: Named entity Bat['Infernal Bat'/9753, uuid='ffdcb328-a647-429e-a956-4735ddb33eb4', l='ServerLevel[world]', x=-722.69, y=8.00, z=-1795.21, cpos=[-46, -113], tl=807, v=true] died: Infernal Bat tried to swim in lava
+[03:39:43] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[03:39:50] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/11257, uuid='15777f98-a0bb-4555-8659-2d3f1de062f3', l='ServerLevel[world]', x=-783.26, y=0.00, z=-1802.70, cpos=[-49, -113], tl=1807, v=true] died: Infernal Creeper was shot by _elu using [Brave Flame Bow]
+[03:42:26] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/10873, uuid='ea8408e7-c56b-48f8-9379-e2b7e0b33e19', l='ServerLevel[world]', x=-828.20, y=14.00, z=-1865.99, cpos=[-52, -117], tl=5821, v=true] died: Infernal Skeleton was slain by _elu
