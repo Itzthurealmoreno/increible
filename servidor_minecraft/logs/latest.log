@@ -84,3 +84,28 @@
 [04:38:27] [Server thread/INFO]: deboabanreservas joined the game
 [04:38:27] [Server thread/INFO]: deboabanreservas[/127.243.153.102:44779] logged in with entity id 4475 at ([world]-887.1712746758119, 210.0, -2056.36638114299)
 [04:40:03] [Server thread/INFO]: _elu issued server command: /home a
+[04:40:36] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/4543, uuid='60b486c0-a20d-45a2-81b8-dfe5274ab26c', l='ServerLevel[world]', x=-887.14, y=104.67, z=-2174.85, cpos=[-56, -136], tl=128834, v=true] died: Infernal Zombie suffocated in a wall
+[04:40:42] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/5240, uuid='6df71a54-d074-41b9-8afb-6e96d146f1f2', l='ServerLevel[world]', x=-858.58, y=86.00, z=-2109.12, cpos=[-54, -132], tl=1362, v=true] died: Infernal Skeleton burned to death
+[04:41:52] [Server thread/INFO]: Named entity Zoglin['Infernal Zoglin'/6317, uuid='87f39494-8677-4986-b750-85b7f18df9b2', l='ServerLevel[world]', x=-901.30, y=21.00, z=-2134.80, cpos=[-57, -134], tl=1034, v=true] died: Infernal Zoglin was slain by Infernal Zombie
+[04:43:03] [Server thread/INFO]: Named entity Spider['Infernal Spider'/6536, uuid='9f3a35de-7074-4bc1-b890-d1af17c22cd5', l='ServerLevel[world]', x=-866.75, y=9.69, z=-2069.75, cpos=[-55, -130], tl=1187, v=true] died: Infernal Spider suffocated in a wall
+[04:43:14] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/5396, uuid='7496d52a-d5d8-4750-af34-e8aa4782688d', l='ServerLevel[world]', x=-893.23, y=94.00, z=-2116.47, cpos=[-56, -133], tl=3985, v=true] died: Infernal Zombie was slain by _elu
+[04:43:39] [Server thread/INFO]: _elu issued server command: /home a
+[04:44:21] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[04:44:21] [Server thread/INFO]: deboabanreservas left the game
+[04:45:04] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/4493, uuid='152bd26e-abf1-4703-b022-52c1d3bdf3e8', l='ServerLevel[world]', x=-845.70, y=49.17, z=-2053.51, cpos=[-53, -129], tl=74598, v=true] died: Infernal Skeleton suffocated in a wall
+[04:46:29] [User Authenticator #2/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[04:46:30] [Server thread/INFO]: deboabanreservas joined the game
+[04:46:30] [Server thread/INFO]: deboabanreservas[/127.243.153.102:60251] logged in with entity id 8488 at ([world]-885.1826345001638, 109.0, -2097.636777493958)
+[04:50:15] [Async Chat Thread - #0/INFO]: [Not Secure] <_elu> asd
+[04:52:28] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[04:52:28] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[04:52:28] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[04:54:27] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/7029, uuid='2eac34a7-4cae-4362-a3cd-105e391e9254', l='ServerLevel[world]', x=-967.06, y=53.74, z=-2190.97, cpos=[-61, -137], tl=4608, v=true] died: Infernal Zombie suffocated in a wall
+[04:54:28] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[04:54:28] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[04:54:53] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/14584, uuid='16c788e5-af0b-409c-a81e-587b8eadb65c', l='ServerLevel[world]', x=-741.11, y=3.67, z=-1804.91, cpos=[-47, -113], tl=1346, v=true] died: Infernal Skeleton suffocated in a wall
+[04:54:57] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/14392, uuid='f6738bc7-7215-40e4-9828-e539d42f9fd0', l='ServerLevel[world]', x=-773.31, y=68.00, z=-1871.70, cpos=[-49, -117], tl=1621, v=true] died: Infernal Skeleton was burned to a crisp while fighting _elu
+[04:55:15] [Server thread/INFO]: _elu issued server command: /home a
+[04:57:03] [Server thread/INFO]: Named entity Bat['Infernal Bat'/15711, uuid='19399c59-4f57-4f70-a003-14ad89a57688', l='ServerLevel[world]', x=-845.34, y=11.00, z=-2083.75, cpos=[-53, -131], tl=2156, v=true] died: Infernal Bat suffocated in a wall
+[04:59:22] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/17099, uuid='d7f428f9-c978-4795-bd2b-912371fc41e0', l='ServerLevel[world]', x=-863.39, y=63.00, z=-2046.01, cpos=[-54, -128], tl=2984, v=true] died: Infernal Creeper was burned to a crisp while fighting deboabanreservas
+[05:00:29] [Server thread/INFO]: _elu issued server command: /home a
