@@ -120,3 +120,17 @@
 [05:07:46] [Server thread/INFO]: Named entity Bat['Infernal Bat'/25538, uuid='b93401de-ef25-49d1-abcf-d113a3f6c60f', l='ServerLevel[world]', x=-843.07, y=51.10, z=-2163.40, cpos=[-53, -136], tl=473, v=true] died: Infernal Bat burned to death
 [05:08:22] [Server thread/INFO]: deboabanreservas died because of Zombie
 [05:08:37] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[05:11:49] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/30321, uuid='0e93f131-4f8a-4c59-8fbf-12039604f19c', l='ServerLevel[world]', x=-743.57, y=32.17, z=-1693.28, cpos=[-47, -106], tl=1109, v=true] died: Infernal Zombie suffocated in a wall
+[05:12:13] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/30029, uuid='08bc5363-d593-4e05-87ba-1a288a84a97e', l='ServerLevel[world]', x=-845.04, y=67.80, z=-2089.71, cpos=[-53, -131], tl=1781, v=true] died: Infernal Zombie burned to death
+[05:12:24] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/30927, uuid='ef0d6f04-531c-4f8b-b646-1094ef3cd24d', l='ServerLevel[world]', x=-974.50, y=52.67, z=-2121.50, cpos=[-61, -133], tl=819, v=true] died: Infernal Zombie suffocated in a wall
+[05:12:42] [Server thread/INFO]: _elu issued server command: /tp deboabanreservas
+[05:12:42] [Server thread/INFO]: [_elu: Teleported _elu to deboabanreservas]
+[05:13:42] [Server thread/INFO]: _elu issued server command: /home a
+[05:14:36] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[05:15:57] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/31979, uuid='1bae7480-15d8-4354-a0db-fdfdd97b1b37', l='ServerLevel[world]', x=-927.93, y=30.51, z=-2207.02, cpos=[-58, -138], tl=2658, v=true] died: Infernal Skeleton suffocated in a wall
+[05:16:14] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/32700, uuid='a7781bb7-60f0-4625-a1bf-678edfb955c8', l='ServerLevel[world]', x=-888.99, y=95.62, z=-2106.96, cpos=[-56, -132], tl=2108, v=true] died: Infernal Zombie suffocated in a wall
+[05:17:26] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/32269, uuid='23a70915-a05c-493c-95ea-c3967a2b4b5c', l='ServerLevel[world]', x=-852.00, y=54.62, z=-2082.91, cpos=[-54, -131], tl=4258, v=true] died: Infernal Zombie suffocated in a wall
+[05:18:24] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/31956, uuid='89914721-73ca-4ab5-b38d-db8e6a2173ea', l='ServerLevel[world]', x=-1025.47, y=85.00, z=-2093.64, cpos=[-65, -131], tl=99620, v=true] died: Infernal Zombie suffocated in a wall
+[05:19:24] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34701, uuid='d02feab0-e596-43ca-9243-8007d3c219a7', l='ServerLevel[world]', x=-945.78, y=52.00, z=-2209.08, cpos=[-60, -139], tl=2411, v=true] died: Infernal Zombie suffocated in a wall
+[05:20:02] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/33814, uuid='8c375779-99d7-40a0-8f66-7c72e0d208c1', l='ServerLevel[world]', x=-792.62, y=16.62, z=-2042.22, cpos=[-50, -128], tl=5151, v=true] died: Infernal Skeleton suffocated in a wall
+[05:21:06] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/33075, uuid='fb3471e4-b498-4e6c-9e4d-d660f671069a', l='ServerLevel[world]', x=-764.77, y=42.67, z=-2160.15, cpos=[-48, -136], tl=7757, v=true] died: Infernal Zombie suffocated in a wall
