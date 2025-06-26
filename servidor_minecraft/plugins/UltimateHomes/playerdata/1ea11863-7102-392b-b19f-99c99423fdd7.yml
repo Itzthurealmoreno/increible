@@ -79,3 +79,10 @@ homes:
     yaw: -124.26837
     pitch: 26.163597
     world: world
+  raid:
+    x: 791
+    y: 65
+    z: -3460
+    yaw: -23.087402
+    pitch: 25.249163
+    world: world

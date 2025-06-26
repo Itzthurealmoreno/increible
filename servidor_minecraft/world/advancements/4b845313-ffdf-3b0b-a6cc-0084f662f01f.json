@@ -15,10 +15,13 @@
       "minecraft:sparse_jungle": "2025-06-17 01:20:59 +0000",
       "minecraft:river": "2025-06-17 05:09:06 +0000",
       "minecraft:lukewarm_ocean": "2025-06-17 04:14:16 +0000",
+      "minecraft:stony_shore": "2025-06-26 05:31:09 +0000",
       "minecraft:lush_caves": "2025-06-17 04:27:21 +0000",
       "minecraft:dripstone_caves": "2025-06-17 04:35:27 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-21 06:23:39 +0000",
       "minecraft:windswept_forest": "2025-06-20 15:37:30 +0000",
+      "minecraft:ocean": "2025-06-26 05:30:47 +0000",
+      "minecraft:jungle": "2025-06-26 05:27:11 +0000",
       "minecraft:cherry_grove": "2025-06-19 06:19:18 +0000",
       "minecraft:meadow": "2025-06-19 05:34:29 +0000",
       "minecraft:birch_forest": "2025-06-17 05:10:32 +0000",
@@ -499,6 +502,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-06-21 05:15:21 +0000",
+      "minecraft:pillager": "2025-06-26 05:33:25 +0000",
       "minecraft:skeleton": "2025-06-17 04:22:44 +0000",
       "minecraft:witch": "2025-06-21 05:29:44 +0000",
       "minecraft:ender_dragon": "2025-06-23 04:51:48 +0000",
@@ -3350,15 +3354,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-06-26 04:57:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-26 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-26 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-26 04:54:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-26 04:57:09 +0000"
     },
     "done": true
   },
@@ -3380,27 +3396,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2025-06-26 05:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-26 04:54:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-26 04:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-06-26 04:47:54 +0000"
     },
     "done": true
   },
@@ -3425,6 +3423,90 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-26 04:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-06-26 05:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-26 05:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-06-26 05:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-26 05:37:31 +0000"
     },
     "done": true
   },

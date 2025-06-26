@@ -134,3 +134,34 @@
 [05:19:24] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/34701, uuid='d02feab0-e596-43ca-9243-8007d3c219a7', l='ServerLevel[world]', x=-945.78, y=52.00, z=-2209.08, cpos=[-60, -139], tl=2411, v=true] died: Infernal Zombie suffocated in a wall
 [05:20:02] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/33814, uuid='8c375779-99d7-40a0-8f66-7c72e0d208c1', l='ServerLevel[world]', x=-792.62, y=16.62, z=-2042.22, cpos=[-50, -128], tl=5151, v=true] died: Infernal Skeleton suffocated in a wall
 [05:21:06] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/33075, uuid='fb3471e4-b498-4e6c-9e4d-d660f671069a', l='ServerLevel[world]', x=-764.77, y=42.67, z=-2160.15, cpos=[-48, -136], tl=7757, v=true] died: Infernal Zombie suffocated in a wall
+[05:24:21] [Server thread/INFO]: deboabanreservas experienced kinetic energy
+[05:24:23] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[05:24:23] [Server thread/INFO]: deboabanreservas left the game
+[05:24:27] [User Authenticator #3/INFO]: UUID of player deboabanreservas is 4b845313-ffdf-3b0b-a6cc-0084f662f01f
+[05:24:28] [Server thread/INFO]: deboabanreservas joined the game
+[05:24:28] [Server thread/INFO]: deboabanreservas[/127.243.153.102:44687] logged in with entity id 40301 at ([world]-892.6868464329024, 109.80061211692119, -2142.4359680000116)
+[05:25:20] [Server thread/INFO]: Named entity Pig['Infernal Pig'/31815, uuid='c0a5570a-dba5-4196-b4e2-e64119c6a1a5', l='ServerLevel[world]', x=-899.43, y=104.00, z=-2138.40, cpos=[-57, -134], tl=510470, v=true] died: Infernal Pig was slain by _elu
+[05:27:17] [Server thread/INFO]: _elu issued server command: /home esmes
+[05:27:55] [Async Chat Thread - #1/INFO]: [Not Secure] <deboabanreservas> seed
+[05:27:58] [Server thread/INFO]: deboabanreservas issued server command: /seed
+[05:28:11] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/45099, uuid='6befe166-0582-4d34-8a49-644cb0cb1230', l='ServerLevel[world]', x=-1334.44, y=23.67, z=-3635.45, cpos=[-84, -228], tl=953, v=true] died: Infernal Skeleton suffocated in a wall
+[05:28:19] [Server thread/INFO]: _elu issued server command: /home a
+[05:28:31] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/40762, uuid='f139038d-973f-442a-beb3-9198c9f4e331', l='ServerLevel[world]', x=-847.95, y=15.62, z=-2113.09, cpos=[-53, -133], tl=1121, v=true] died: Infernal Skeleton suffocated in a wall
+[05:30:08] [Server thread/INFO]: Named entity EnderMan['Infernal Enderman'/40635, uuid='76576212-02ca-4fb6-bc48-fc9bc793a9ac', l='ServerLevel[world]', x=-850.19, y=28.37, z=-1947.87, cpos=[-54, -122], tl=4607, v=true] died: Infernal Enderman suffocated in a wall
+[05:30:40] [Async Chat Thread - #3/INFO]: [Not Secure] <deboabanreservas> 768 ~ -3456
+[05:31:27] [Async Chat Thread - #3/INFO]: [Not Secure] <_elu> asd
+[05:31:43] [Async Chat Thread - #4/INFO]: [Not Secure] <_elu> asd
+[05:31:56] [Async Chat Thread - #4/INFO]: [Not Secure] <_elu> asd
+[05:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2725ms or 54 ticks behind
+[05:32:20] [Async Chat Thread - #4/INFO]: [Not Secure] <_elu> asd
+[05:32:29] [Async Chat Thread - #4/INFO]: [Not Secure] <_elu> asd
+[05:32:58] [Server thread/INFO]: deboabanreservas issued server command: /tp
+[05:33:05] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:33:05] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
+[05:35:21] [Server thread/INFO]: _elu has made the advancement [Voluntary Exile]
+[05:37:31] [Server thread/INFO]: deboabanreservas has made the advancement [Voluntary Exile]
+[05:38:05] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/54711, uuid='b7b6ce3f-4e58-4f75-b72d-9b4dfa5a0257', l='ServerLevel[world]', x=678.41, y=38.00, z=-3445.61, cpos=[42, -216], tl=2590, v=true] died: Infernal Skeleton suffocated in a wall
+[05:38:24] [Server thread/INFO]: _elu issued server command: /sethome raid
+[05:38:51] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/55342, uuid='758da992-bc81-4b67-9678-6851d1a087b3', l='ServerLevel[world]', x=803.07, y=18.30, z=-3454.82, cpos=[50, -216], tl=1398, v=true] died: Infernal Skeleton suffocated in a wall
+[05:40:53] [Server thread/INFO]: deboabanreservas issued server command: /tp _elu
+[05:40:53] [Server thread/INFO]: [deboabanreservas: Teleported deboabanreservas to _elu]
