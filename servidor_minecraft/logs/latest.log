@@ -81,3 +81,13 @@
 [03:57:41] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/1112, uuid='61d66f53-3b6b-4495-9ce5-71395e03497b', l='ServerLevel[world]', x=-837.33, y=20.00, z=-2090.70, cpos=[-53, -131], tl=1210, v=true] died: Infernal Skeleton suffocated in a wall
 [04:00:22] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/3508, uuid='66186318-1732-4168-a188-7d557722f8af', l='ServerLevel[world]', x=-942.50, y=4.00, z=-2350.50, cpos=[-59, -147], tl=813, v=true] died: Infernal Zombie suffocated in a wall
 [04:02:10] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/4280, uuid='16ffa4bb-5c37-4763-802e-9965ac28f8a7', l='ServerLevel[world]', x=-900.75, y=21.30, z=-2141.25, cpos=[-57, -134], tl=1134, v=true] died: Infernal Skeleton suffocated in a wall
+[04:05:06] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/5941, uuid='a8fe8601-59ce-48ab-b008-bfba5b7e0453', l='ServerLevel[world]', x=-1078.00, y=5.41, z=-2423.91, cpos=[-68, -152], tl=915, v=true] died: Infernal Skeleton suffocated in a wall
+[04:05:20] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/6155, uuid='def937b3-3d52-420e-b2e3-a8249ffbf194', l='ServerLevel[world]', x=-904.80, y=28.67, z=-2386.50, cpos=[-57, -150], tl=831, v=true] died: Infernal Skeleton suffocated in a wall
+[04:06:45] [Server thread/INFO]: Named entity Creeper['Infernal Creeper'/7082, uuid='d73025b4-4e43-47d3-b8ce-c6d1b94b4b3d', l='ServerLevel[world]', x=-971.39, y=81.00, z=-2087.47, cpos=[-61, -131], tl=810, v=true] died: Infernal Creeper suffocated in a wall
+[04:08:54] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/7847, uuid='35853ad2-a7d9-430c-89ef-576da9ec2419', l='ServerLevel[world]', x=-898.20, y=34.67, z=-2395.46, cpos=[-57, -150], tl=1015, v=true] died: Infernal Skeleton suffocated in a wall
+[04:10:07] [Server thread/INFO]: _elu issued server command: /home a
+[04:10:47] [Server thread/INFO]: _elu issued server command: /home a
+[04:11:11] [Server thread/INFO]: deboabanreservas issued server command: /home end
+[04:11:31] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/9841, uuid='a5670bb7-0341-4d82-ac69-c590923f6d60', l='ServerLevel[world]', x=-968.17, y=52.54, z=-2128.17, cpos=[-61, -134], tl=805, v=true] died: Infernal Skeleton suffocated in a wall
+[04:12:19] [Server thread/INFO]: deboabanreservas has made the advancement [Remote Getaway]
+[04:12:44] [Server thread/INFO]: _elu issued server command: /home exp
