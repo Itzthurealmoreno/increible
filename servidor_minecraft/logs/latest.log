@@ -95,3 +95,13 @@
 [16:00:07] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/8159, uuid='4d02a185-c44b-44a9-bc6f-97092835dda0', l='ServerLevel[world]', x=-886.07, y=211.50, z=-2052.48, cpos=[-56, -129], tl=2662, v=true] died: Infernal Zombie was slain by deboabanreservas using [Spider Whacker]
 [16:03:00] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/9998, uuid='225b85cd-df70-47be-a226-6513a2488a68', l='ServerLevel[world]', x=-838.25, y=61.30, z=-2173.25, cpos=[-53, -136], tl=1142, v=true] died: Infernal Zombie suffocated in a wall
 [16:03:40] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/10307, uuid='cfc1ac10-ab38-438e-8a91-e2366742fa48', l='ServerLevel[world]', x=-918.59, y=81.30, z=-2106.25, cpos=[-58, -132], tl=985, v=true] died: Infernal Skeleton suffocated in a wall
+[16:07:39] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[16:07:40] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[16:07:40] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.8' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[16:07:40] [Server thread/INFO]: [InfernalMobs] [STDOUT] ENDER_DRAGON is not a valid Entity!
+[16:08:48] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/10066, uuid='e418d258-b5d7-4820-806c-ce24a61d7732', l='ServerLevel[world]', x=-908.63, y=89.00, z=-2120.70, cpos=[-57, -133], tl=7797, v=true] died: Infernal Skeleton was slain by Zombie
+[16:09:46] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[16:10:46] [Server thread/INFO]: deboabanreservas issued server command: /home casa
+[16:10:48] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
+[16:10:48] [Server thread/INFO]: deboabanreservas left the game
+[16:12:35] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/10609, uuid='f2a4bdc7-11c0-4695-9453-8fa3f3d71f6f', l='ServerLevel[world]', x=-821.56, y=28.00, z=-2064.67, cpos=[-52, -130], tl=10630, v=true] died: Infernal Skeleton suffocated in a wall

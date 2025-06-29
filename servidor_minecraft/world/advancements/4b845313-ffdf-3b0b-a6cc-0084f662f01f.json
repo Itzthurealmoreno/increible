@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-06-29 16:06:42 +0000",
       "minecraft:beach": "2025-06-17 04:13:21 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-17 05:27:08 +0000",
       "minecraft:dark_forest": "2025-06-17 05:14:50 +0000",
