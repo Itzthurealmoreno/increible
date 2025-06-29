@@ -105,3 +105,7 @@
 [16:10:48] [Server thread/INFO]: deboabanreservas lost connection: Disconnected
 [16:10:48] [Server thread/INFO]: deboabanreservas left the game
 [16:12:35] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/10609, uuid='f2a4bdc7-11c0-4695-9453-8fa3f3d71f6f', l='ServerLevel[world]', x=-821.56, y=28.00, z=-2064.67, cpos=[-52, -130], tl=10630, v=true] died: Infernal Skeleton suffocated in a wall
+[16:15:45] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/20336, uuid='b8f61ec7-1b0d-4901-90c1-4e5a46bca04f', l='ServerLevel[world]', x=-788.01, y=78.41, z=-2130.49, cpos=[-50, -134], tl=4049, v=true] died: Infernal Zombie suffocated in a wall
+[16:18:11] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/21426, uuid='991c1c4b-9ac2-4a67-8c95-d7021a1d4b73', l='ServerLevel[world]', x=-817.85, y=57.26, z=-2095.11, cpos=[-52, -131], tl=913, v=true] died: Infernal Zombie suffocated in a wall
+[16:19:53] [Server thread/INFO]: Named entity Zombie['Infernal Zombie'/21278, uuid='edcb6597-4b8b-480d-b045-e9a41d8b5a7b', l='ServerLevel[world]', x=-930.50, y=99.00, z=-2135.26, cpos=[-59, -134], tl=3865, v=true] died: Infernal Zombie was slain by _elu
+[16:19:56] [Server thread/INFO]: Named entity Skeleton['Infernal Skeleton'/21812, uuid='e3f9b8bd-e40e-426e-a65e-2f0415318e91', l='ServerLevel[world]', x=-934.70, y=28.00, z=-2127.30, cpos=[-59, -133], tl=809, v=true] died: Infernal Skeleton was slain by Zoglin
