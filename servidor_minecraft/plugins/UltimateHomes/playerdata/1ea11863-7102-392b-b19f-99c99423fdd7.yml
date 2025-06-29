@@ -86,3 +86,10 @@ homes:
     yaw: -23.087402
     pitch: 25.249163
     world: world
+  raidfarm:
+    x: 1006
+    y: 63
+    z: -3718
+    yaw: -29.822926
+    pitch: 11.9845915
+    world: world
